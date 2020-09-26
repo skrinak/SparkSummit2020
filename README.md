@@ -19,9 +19,7 @@ They’re not in this conversation for the long haul. They just wanna see it mov
 
 ## Moving Average Convergence / Divergence 
 
-If the rabbit is continually escaping the dog day after day, then that dog may have no chance of catching her prey. This divergence of moving averages is a strong trend indicator, so strong that it overpowers the day-to-day thinking of the participants. It turns bulls into bears and vice versa, and as it’s continuing strength snowballs as it did in early March, until we hit a climax.
-
-## Imagine you couldn’t see the prices of the instrument we were watching, we could only see MACD. Can you 
+If the rabbit is continually escaping the dog day after day, then that dog may have no chance of catching her prey. This divergence of moving averages is a strong trend indicator, so strong that it overpowers the day-to-day thinking of the participants. It turns bulls into bears and vice versa, and as it’s continuing strength snowballs as it did in early March, until we hit a climax. Imagine you couldn’t see the prices of the instrument we were watching, we could only see MACD. Can you 
 tell, looking at this chart, excuse me, when sentiment changed? Can you spot when the best time was to buy and sell? Now we’re flying by instruments only. When the fast line crosses the slow line, we have an opportunity to get ahead of the pack. In fact, that based on MACD alone, our first cross is a misfire. We shorted and had to cover quickly. However, second time was a charm and it was a doozy. MACD is built on historical prices, so it’s always late. In fact, it’s a conservative indicator of the conversation. What if we want to narrow in a bit and hit the exact peaks and troughs? Well, let’s mix a few more metaphors. Imagine two boxers entering a ring, it’s a well-matched fight, either fighter can win. However, they both have their limits. They will, if only for a moment, lose their momentum. They will need to recover their strength. That’s what stochastics measures. It’s what happens at the limits of exhaustion.
 
 ## Stochastics 
